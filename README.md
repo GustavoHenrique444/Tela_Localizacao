@@ -1,4 +1,4 @@
-<h1 align=center>EcoManga (Tela de Localização)</h1>
+<h1 align=center>EcoManga (Tela de Localização</h1>
 
 <h3 align="center">Integrantes: Gustavo Henrique da Silva Souza e Guilherme Sola Gárcia</h3>
 
