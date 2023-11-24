@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Localizacao</string>
+    <string name="Lock">Localização atual: \n Latitude: \n Longitude:</string>
+</resources>
